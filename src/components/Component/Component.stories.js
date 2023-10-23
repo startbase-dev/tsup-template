@@ -2,7 +2,7 @@ import React from 'react';
 
 import ReactComponent from './Component.js';
 
-const Template = (arg) => {
+const Template = () => {
   return (
     <>
       <h1>Component</h1>
